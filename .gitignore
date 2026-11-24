@@ -2,3 +2,6 @@ node_modules/
 .homeybuild/
 env.json
 test/live/key.json
+
+# Paperclip attachment staging (never commit live run payload)
+.paperclip-inbound/
